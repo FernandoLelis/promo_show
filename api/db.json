@@ -10,13 +10,13 @@
         "id": 2,
         "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
         "price": 246.05,
-        "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
+        "imageUrl": "https://a-static.mlcdn.com.br/618x463/faqueiro-tramontina-laguna-inox-100-pecas/magazineluiza/141021200/b0ec3f473b3b4f12999cda05cdb0c1a5.jpg"
       },
       {
         "id": 3,
         "title": "Tênis West Coast Marrom",
         "price": 119.99,
-        "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/fe0a1e4ddcbd8f9a99a05908b6d29ea2.png"
+        "imageUrl": "https://static.netshoes.com.br/produtos/sapatenis-masculino-west-coast-207105cp/55/D95-3030-055/D95-3030-055_zoom1.jpg?ts=1638981701&ims=326x"
       },
       {
         "id": 4,
@@ -38,4 +38,4 @@
       }
     ]
 
-  }
+}
