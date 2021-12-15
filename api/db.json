@@ -1,41 +1,55 @@
 {
-    "promotions": [
-      {
-        "id": 1,
-        "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
-        "price": 1799,
-        "imageUrl": "https://m.media-amazon.com/images/I/61o0lt6Sh6L._AC_SY450_.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
-        "price": 246.05,
-        "imageUrl": "https://a-static.mlcdn.com.br/618x463/faqueiro-tramontina-laguna-inox-100-pecas/magazineluiza/141021200/b0ec3f473b3b4f12999cda05cdb0c1a5.jpg"
-      },
-      {
-        "id": 3,
-        "title": "Tênis West Coast Marrom",
-        "price": 119.99,
-        "imageUrl": "https://static.netshoes.com.br/produtos/sapatenis-masculino-west-coast-207105cp/55/D95-3030-055/D95-3030-055_zoom1.jpg?ts=1638981701&ims=326x"
-      },
-      {
-        "id": 4,
-        "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
-        "price": 699.90,
-        "imageUrl": "https://m.media-amazon.com/images/I/617H7nrhpbL._AC_SY450_.jpg"
-      }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "comment": "TELA HD",
-        "promotionId": 1
-      },
-      {
-        "id": 2,
-        "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
-        "promotionId": 2
-      }
-    ]
-
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
+      "price": 1799,
+      "url": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61o0lt6Sh6L._AC_SY450_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
+      "price": 246.05,
+      "imageUrl": "https://a-static.mlcdn.com.br/618x463/faqueiro-tramontina-laguna-inox-100-pecas/magazineluiza/141021200/b0ec3f473b3b4f12999cda05cdb0c1a5.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis West Coast Marrom",
+      "price": 119.99,
+      "imageUrl": "https://static.netshoes.com.br/produtos/sapatenis-masculino-west-coast-207105cp/55/D95-3030-055/D95-3030-055_zoom1.jpg?ts=1638981701&ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
+      "price": 699.9,
+      "imageUrl": "https://m.media-amazon.com/images/I/617H7nrhpbL._AC_SY450_.jpg"
+    },
+    {
+      "title": "Potinhos Empilhar E Rolar, Fisher Price, Mattel",
+      "url": "https://amzn.to/3pTnfhl",
+      "imageUrl": "v",
+      "price": "24",
+      "id": 5
+    },
+    {
+      "title": "Razer Anzu - Smart Glasses (rectangle Blue Light + Sunglass L)",
+      "url": "https://amzn.to/3pVQa45",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/521ecf287faee00bcbe19ee93713c074.jpg",
+      "price": "805",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "TELA HD",
+      "promotionId": 1
+    },
+    {
+      "id": 2,
+      "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
+      "promotionId": 2
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import { 
     BrowserRouter as Router, 
-    Routes, 
+    Switch, 
     Route 
 } 
 from "react-router-dom";
@@ -12,11 +12,11 @@ import PagesPromotionForm from "./Promotion/Form/Form";
       return(
           <Router>
             <div>
-                <Routes>
-                    <Route path="/create" element={<PagesPromotionForm />} />
-                    <Route path="/edit/:id" element={<PagesPromotionForm />} />
-                    <Route path="/" element={<PagesPromotionSearch />} />
-                </Routes>
+                <Switch>
+                    <Route path="/create" component={PagesPromotionForm} />
+                    <Route path="/edit/:id" component={PagesPromotionForm} />
+                    <Route path="/" component={PagesPromotionSearch} />
+                </Switch>
             </div>
           </Router>
       );
