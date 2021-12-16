@@ -16,7 +16,7 @@
     {
       "id": 3,
       "title": "Tênis West Coast Marrom",
-      "price": 119.99,
+      "price": "115.90",
       "imageUrl": "https://static.netshoes.com.br/produtos/sapatenis-masculino-west-coast-207105cp/55/D95-3030-055/D95-3030-055_zoom1.jpg?ts=1638981701&ims=326x"
     },
     {
@@ -36,7 +36,7 @@
       "title": "Razer Anzu - Smart Glasses (rectangle Blue Light + Sunglass L)",
       "url": "https://amzn.to/3pVQa45",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/521ecf287faee00bcbe19ee93713c074.jpg",
-      "price": "805",
+      "price": "790",
       "id": 6
     }
   ],
